@@ -5,14 +5,22 @@
   <link href="https://pnelsonftp.github.io/health-drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/health-drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/health-drudge/</id>
-  <updated>2026-08-25T16:40:21.655Z</updated>
+  <updated>2026-08-25T17:34:19.400Z</updated>
+  <entry>
+    <title>Interplay Between Heart Failure Events, New-Onset Diabetes, and Finerenone in Heart Failure With Mildly Reduced or Preserved Ejection Fraction</title>
+    <link href="https://diabetesjournals.org/care/article/doi/10.2337/dc25-2540/164006/Interplay-Between-Heart-Failure-Events-New-Onset"/>
+    <id>https://diabetesjournals.org/care/article/doi/10.2337/dc25-2540/164006/Interplay-Between-Heart-Failure-Events-New-Onset</id>
+    <updated>2026-12-08T00:00:00.000Z</updated>
+    <author><name>Diabetes Care (advance)</name></author>
+    <category term="CHOLESTEROL &amp; LDL"/>
+  </entry>
   <entry>
     <title>What can I expect next?</title>
     <link href="https://www.reddit.com/r/Cholesterol/comments/1vy4c8s/what_can_i_expect_next"/>
     <id>https://www.reddit.com/r/Cholesterol/comments/1vy4c8s/what_can_i_expect_next</id>
     <updated>2026-08-25T16:15:29.000Z</updated>
     <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
-    <category term="CHOLESTEROL &amp; LDL"/>
+    <category term="CAC &amp; PLAQUE"/>
     <summary>Update: I pushed the doctor for a CAC scan. I’ve been having this weird feeling something is wrong with my heart. The CAC came back with a calcium score of 40. All in LAD. This is the highest he has seen for a woman my age. 😔Hoping that with the statin i am able to prevent any further damage. We will review my LDL in </summary>
   </entry>
   <entry>
@@ -23,14 +31,6 @@
     <author><name>Journal of Clinical Lipidology</name></author>
     <category term="APOB &amp; PARTICLES"/>
     <summary>The LILAC Heart is a novel implementation initiative that employs multi-pronged strategies with the LILAC-for-Lp(a) clinical approach to integrate lipoprotein(a) (Lp(a)) testing and management into inpatient cardiology care. At 2 years after implementation, we assessed the implementation outcomes.</summary>
-  </entry>
-  <entry>
-    <title>Interplay Between Heart Failure Events, New-Onset Diabetes, and Finerenone in Heart Failure With Mildly Reduced or Preserved Ejection Fraction</title>
-    <link href="https://diabetesjournals.org/care/article/doi/10.2337/dc25-2540/164006/Interplay-Between-Heart-Failure-Events-New-Onset"/>
-    <id>https://diabetesjournals.org/care/article/doi/10.2337/dc25-2540/164006/Interplay-Between-Heart-Failure-Events-New-Onset</id>
-    <updated>2026-12-08T00:00:00.000Z</updated>
-    <author><name>Diabetes Care (advance)</name></author>
-    <category term="FASTING GLUCOSE"/>
   </entry>
   <entry>
     <title>zone 2 run completed with claude running in the background</title>
@@ -69,19 +69,19 @@
     <summary>(MedPage Today) -- The FDA cleared the Elecsys pTau217 blood test to identify amyloid-beta pathology associated with Alzheimer's disease in people ages 55 and older with symptoms of cognitive decline, Roche announced Monday. The test, developed...</summary>
   </entry>
   <entry>
-    <title>My doctor sees LDL 187 and HbA1c 5.4. Every protocol says start a statin and watch the sugar. Here is what the same blood test actually says. Fasting insulin: 3.7. HOMA-IR: 0.80. Trig/HDL: 0.83. Fructosamine: 216. HDL: 75. Triglycerides: 62. Every metabolic</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE11QmxEUWNrX0JvcWdGYlNLdFBVSWY4NW9nYlR2YlB6dGw0Y0FSWEpRR1Y0M1NzUzJ6T05OOGxEMmtCZUhxdXZfZjlKd1pWSFZuUXlfTmkwTmx4bTRCcC14YVNFbw"/>
-    <id>https://news.google.com/rss/articles/CBMiY0FVX3lxTE11QmxEUWNrX0JvcWdGYlNLdFBVSWY4NW9nYlR2YlB6dGw0Y0FSWEpRR1Y0M1NzUzJ6T05OOGxEMmtCZUhxdXZfZjlKd1pWSFZuUXlfTmkwTmx4bTRCcC14YVNFbw</id>
-    <updated>2026-08-25T11:43:57.000Z</updated>
-    <author><name>X.com via GNews: glucose only</name></author>
+    <title>Cellular mechanisms of atherosclerosis 1. ApoB-containing lipoproteins, especially LDL, are retained in the arterial intima and undergo modification, including oxidation and aggregation. 2. Retained/modified lipoproteins and endothelial stress activate endoth</title>
+    <link href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTTTI0VHdpOGFaSWRtTE5oTzh2TEdOYkFrczB3UGFfdTRrcDRiUG1Cb3E1cHRPME9KT2xiV3pwM2hCNE5rS3V1anU4UFNyMmlWaHBNdXN1MmR2eEJWT1gzVWlsWVRyZw"/>
+    <id>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTTTI0VHdpOGFaSWRtTE5oTzh2TEdOYkFrczB3UGFfdTRrcDRiUG1Cb3E1cHRPME9KT2xiV3pwM2hCNE5rS3V1anU4UFNyMmlWaHBNdXN1MmR2eEJWT1gzVWlsWVRyZw</id>
+    <updated>2026-08-25T14:57:54.000Z</updated>
+    <author><name>X.com via GNews: lipids / CAC / ApoB</name></author>
     <category term="CHOLESTEROL &amp; LDL"/>
-    <summary>My doctor sees LDL 187 and HbA1c 5.4. Every protocol says start a statin and watch the sugar. Here is what the same blood test actually says. Fasting insulin: 3.7. HOMA-IR: 0.80. Trig/HDL: 0.83. Fructosamine: 216. HDL: 75. Triglycerides: 62. Every metabolic x.com</summary>
+    <summary>Cellular mechanisms of atherosclerosis 1. ApoB-containing lipoproteins, especially LDL, are retained in the arterial intima and undergo modification, including oxidation and aggregation. 2. Retained/modified lipoproteins and endothelial stress activate endoth x.com</summary>
   </entry>
   <entry>
     <title>Incidence and risk factors for aortic dissection in a community-based cohorts: The Atherosclerosis Risk in Communities (ARIC) and Multi-Ethnic Study of Atherosclerosis (MESA) studies</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S2666667726002400?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S2666667726002400?dgcid=rss_sd_all</id>
-    <updated>2026-08-25T16:40:13.550Z</updated>
+    <updated>2026-08-25T17:33:54.994Z</updated>
     <author><name>American Journal of Preventive Cardiology</name></author>
     <category term="CAC &amp; PLAQUE"/>
     <summary>Publication date: October 2026 Source: American Journal of Preventive Cardiology, Volume 29 Author(s): John Erhabor, Zeina Dardari, Kunihiro Matsushita, Seamus Whelton, Ron Blankstein, Zhiqi Yao, Erfan Tasgidhi, Weihong Tang, Michael E. Hall, Michael Khorsandi, Kunal Jha, Michael D. Shapiro, Khurram Nasir, Michael J. B</summary>
@@ -96,22 +96,13 @@
     <summary>Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.</summary>
   </entry>
   <entry>
-    <title>Cellular mechanisms of atherosclerosis 1. ApoB-containing lipoproteins, especially LDL, are retained in the arterial intima and undergo modification, including oxidation and aggregation. 2. Retained/modified lipoproteins and endothelial stress activate endoth</title>
-    <link href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTTTI0VHdpOGFaSWRtTE5oTzh2TEdOYkFrczB3UGFfdTRrcDRiUG1Cb3E1cHRPME9KT2xiV3pwM2hCNE5rS3V1anU4UFNyMmlWaHBNdXN1MmR2eEJWT1gzVWlsWVRyZw"/>
-    <id>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTTTI0VHdpOGFaSWRtTE5oTzh2TEdOYkFrczB3UGFfdTRrcDRiUG1Cb3E1cHRPME9KT2xiV3pwM2hCNE5rS3V1anU4UFNyMmlWaHBNdXN1MmR2eEJWT1gzVWlsWVRyZw</id>
-    <updated>2026-08-25T14:57:54.000Z</updated>
+    <title>The story of Lp(a) and oxidized phospholipids (OxPL) @OxPL_apoB continues to expand, beyond atherosclerosis and inflammation, and now into clot formation and clot strength. In our new study in ATVB, Lp(a), OxPL-apoB and other OxPL biomarkers were li</title>
+    <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XT1gxbmVGaDVCYUczZGlUTS1hanJNZC1WdFFxb2RfTTJuRWNINnhGcDllOGlSTlJSWUU4S0pzNk45R2tCVU5GZDljOGtXcTdLeHhEeTAwaVFNWTFzZUxRM05WR0Y3NEU"/>
+    <id>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XT1gxbmVGaDVCYUczZGlUTS1hanJNZC1WdFFxb2RfTTJuRWNINnhGcDllOGlSTlJSWUU4S0pzNk45R2tCVU5GZDljOGtXcTdLeHhEeTAwaVFNWTFzZUxRM05WR0Y3NEU</id>
+    <updated>2026-08-25T08:40:43.000Z</updated>
     <author><name>X.com via GNews: lipids / CAC / ApoB</name></author>
     <category term="APOB &amp; PARTICLES"/>
-    <summary>Cellular mechanisms of atherosclerosis 1. ApoB-containing lipoproteins, especially LDL, are retained in the arterial intima and undergo modification, including oxidation and aggregation. 2. Retained/modified lipoproteins and endothelial stress activate endoth x.com</summary>
-  </entry>
-  <entry>
-    <title>Would you de-intensify lipid-lowering therapy at LDL-C 10 mg/dL and ApoB &lt;20 mg/dL? Does ezetimibe increase Lp(a)?</title>
-    <link href="https://www.reddit.com/r/Cholesterol/comments/1vxzk9f/would_you_deintensify_lipidlowering_therapy_at"/>
-    <id>https://www.reddit.com/r/Cholesterol/comments/1vxzk9f/would_you_deintensify_lipidlowering_therapy_at</id>
-    <updated>2026-08-25T13:15:47.000Z</updated>
-    <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
-    <category term="APOB &amp; PARTICLES"/>
-    <summary>submitted by /u/sleepingturtles87 to r/Cholesterol [link] [comments]</summary>
+    <summary>The story of Lp(a) and oxidized phospholipids (OxPL) @OxPL_apoB continues to expand, beyond atherosclerosis and inflammation, and now into clot formation and clot strength. In our new study in ATVB, Lp(a), OxPL-apoB and other OxPL biomarkers were li x.com</summary>
   </entry>
   <entry>
     <title>2027 Step Out® Walk: Greater New York</title>
@@ -132,15 +123,6 @@
     <summary>1 in 3 Rhode Island Adults Has Prediabetes. Do You Know Your Risk? WPRI.com</summary>
   </entry>
   <entry>
-    <title>A VO2 max test measures the amount of oxygen you breathe in and use at peak levels of exercise intensity, and it assesses how well your heart, lungs and muscles work together during aerobic (cardio) exercise. Whether you're an athlete or not, a VO2 max tes</title>
-    <link href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5YbW5Sekdza2hjenZmOUNKWDZmWVRyeXNsOWMxaUdkNm44X2NVSXM1UzI0LWhaTHlLbG9pbVZwRE5UMURuNldNUFhFeUFtU3hJNEU5QWs5bmhmaVZCRml4SVpwMDVlOHV1YnNZ"/>
-    <id>https://news.google.com/rss/articles/CBMia0FVX3lxTE5YbW5Sekdza2hjenZmOUNKWDZmWVRyeXNsOWMxaUdkNm44X2NVSXM1UzI0LWhaTHlLbG9pbVZwRE5UMURuNldNUFhFeUFtU3hJNEU5QWs5bmhmaVZCRml4SVpwMDVlOHV1YnNZ</id>
-    <updated>2026-08-24T20:27:32.000Z</updated>
-    <author><name>X.com via GNews: Zone 2 / VO2</name></author>
-    <category term="EXERCISE"/>
-    <summary>A VO2 max test measures the amount of oxygen you breathe in and use at peak levels of exercise intensity, and it assesses how well your heart, lungs and muscles work together during aerobic (cardio) exercise. Whether you're an athlete or not, a VO2 max tes x.com</summary>
-  </entry>
-  <entry>
     <title>Tag the friend who doesn't know what a 'zone 2' or 'easy' ride is...</title>
     <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKTlhsdE5reXNpNmFJTWNPLUdRMklWQWd5WWtCZDI5RE9JNzRneWo4WUJzRDdxMmlfRjdxSFF2Mi1YWWR5aFRQZmpJZndnelRlaW40elZxT0hSY2NmZ2hDdXVoSl9rMkU"/>
     <id>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKTlhsdE5reXNpNmFJTWNPLUdRMklWQWd5WWtCZDI5RE9JNzRneWo4WUJzRDdxMmlfRjdxSFF2Mi1YWWR5aFRQZmpJZndnelRlaW40elZxT0hSY2NmZ2hDdXVoSl9rMkU</id>
@@ -148,6 +130,15 @@
     <author><name>X.com via GNews: Zone 2 / VO2</name></author>
     <category term="EXERCISE"/>
     <summary>Tag the friend who doesn't know what a 'zone 2' or 'easy' ride is... x.com</summary>
+  </entry>
+  <entry>
+    <title>Association between neural-drive variability and motor function in middle-aged and older adults</title>
+    <link href="https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00442.2026?af=R"/>
+    <id>https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00442.2026?af=R</id>
+    <updated>2026-08-24T11:29:22.000Z</updated>
+    <author><name>Journal of Applied Physiology</name></author>
+    <category term="EXERCISE"/>
+    <summary>Journal of Applied Physiology, Volume 141, Issue 3, Page 745-759, September 2026.</summary>
   </entry>
   <entry>
     <title>Refined Carbs vs Complex Carbs - How to Affect ApoB</title>
@@ -202,5 +193,14 @@
     <author><name>Healio Cardiology</name></author>
     <category term="ANALYSIS"/>
     <summary>Statin discontinuation, compared with continued use, did not raise all-cause mortality over 3 years among adults aged at least 75 years who were taking statins for primary prevention of atherosclerotic cardiovascular disease. For older adults on statin therapy for primary prevention of ASCVD, discontinuation of statin </summary>
+  </entry>
+  <entry>
+    <title>How often do you cheat on your diet?</title>
+    <link href="https://www.reddit.com/r/Cholesterol/comments/1vy2cb4/how_often_do_you_cheat_on_your_diet"/>
+    <id>https://www.reddit.com/r/Cholesterol/comments/1vy2cb4/how_often_do_you_cheat_on_your_diet</id>
+    <updated>2026-08-25T15:02:50.000Z</updated>
+    <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
+    <category term="REDDIT &amp; X"/>
+    <summary>I recently got pretty bad lipid results, and I’ve been on a diet with almost 2 weeks of no added sugar, low to no fat (excluding the good kind), no meat, high fiber. I’ve been doing really well, but I’ve been craving pizza as of yesterday😭😭😭 I will say I don’t crave sugar anymore which is nice. I’m not on a statin. </summary>
   </entry>
 </feed>
