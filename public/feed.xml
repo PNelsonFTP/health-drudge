@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/health-drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/health-drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/health-drudge/</id>
-  <updated>2026-10-23T18:10:46.026Z</updated>
+  <updated>2026-10-23T21:55:45.383Z</updated>
   <entry>
     <title>Fitbit Air and Google Health get updates including blood pressure and insulin resistance trends</title>
     <link href="https://news.google.com/rss/articles/CBMiigJBVV95cUxOb0R4SWF0eEQwN1RXUzhJcDMzQXNlWld5NF9wUi1UMEZDR3U2S3d6bzZjRjZDUjBsVmJvd3IyRXlVQ1VEa3lVa3FyNjRWMnBXUTRxWmc3eWkxR2p3OGhPM21qNm5JTTdpbjM1YW40Vm4wMTRfZmxPYi1hUkh6QXFwV3Z1OC1FVmEwOF9YdWRiWTNWYWVYeFptOU9oZ1JtWDZNREk5UTJDVmRrTDdTTG8wQmhQU3E4RXltZjFSSEFzbDRyenR0clFmRGsya3A4dElhdVJrSmZ0akZBWVVuXzRTLUJOSTN0SHNXZy1jZjN3LTRoTTdHUGVvYS1BaEJMcUotZ2hqN3FkV21fQdIBjwJBVV95cUxPc1hMU3dKa1dEem9UMGt4QW1qd2l3MlBuSEhOR2FzN1FuQWNuNFZjMUpIT3Q0RU9BLTRKV1Bidm5qVXd0VzYwUmxWeEstRkNXbFdDUXJodUl0RzdTUi1lR01SbV9lZWRxSXhiS1diN2pNQ19qaDhvZlljcDU4YzFMcWt1NGlaREdDY3R2a3dRa1NVS2pQTWZLaExNdUdzWndIQ2taTV9WamR3dDhRaUtsZjUzYTNFaXNZX1REeFpqRG9vVGFDTl9hMUlxM041eDdnSDBRWU1MZGxrcUhVM21vRnZxeHc4ekNWZFQ1eW5OdnZYYTYyVU1KemstMGhKaTJKcEFuTVNhQWd1bk9BZ3U0"/>
@@ -13,7 +13,25 @@
     <updated>2026-10-23T11:12:00.000Z</updated>
     <author><name>Google News: Fasting glucose / IR</name></author>
     <category term="FASTING GLUCOSE"/>
-    <summary>Fitbit Air and Google Health get updates including blood pressure and insulin resistance trends The Times of India — Also covered by: Google News: Fasting glucose / IR, X.com via GNews: glucose only, X.com via GNews: glucose only, Google News: Fasting glucose / IR</summary>
+    <summary>Fitbit Air and Google Health get updates including blood pressure and insulin resistance trends The Times of India — Also covered by: X.com via GNews: glucose only</summary>
+  </entry>
+  <entry>
+    <title>Enlicitide Cuts LDL-C Regardless of Kidney Function</title>
+    <link href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWc5S2laR3JZdUJhYkpWdnFsYWZfSEZmYmh5WkVvNzNCc1FBb1F1MHBQLVFYM2R5aEVfTWk2OWlBYWgtTWtPMW9RR3dqZ1luMVNfbjJJbTRZZzMtbTd4Rjd5dmpGY2xUaUpVajVyYjlJamE1eUhEMm5JUU9OS2JBUHNPOXhTM21uWnZXanY4aw"/>
+    <id>https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWc5S2laR3JZdUJhYkpWdnFsYWZfSEZmYmh5WkVvNzNCc1FBb1F1MHBQLVFYM2R5aEVfTWk2OWlBYWgtTWtPMW9RR3dqZ1luMVNfbjJJbTRZZzMtbTd4Rjd5dmpGY2xUaUpVajVyYjlJamE1eUhEMm5JUU9OS2JBUHNPOXhTM21uWnZXanY4aw</id>
+    <updated>2026-10-23T20:07:30.000Z</updated>
+    <author><name>Google News: oral PCSK9 / inclisiran</name></author>
+    <category term="CHOLESTEROL &amp; LDL"/>
+    <summary>Enlicitide Cuts LDL-C Regardless of Kidney Function Pharmacy Times</summary>
+  </entry>
+  <entry>
+    <title>2nd attempt at CCTA couldn't be done due to a HR in the mid 70s. Looking for advice.</title>
+    <link href="https://www.reddit.com/r/Cholesterol/comments/1xdr43b/2nd_attempt_at_ccta_couldnt_be_done_due_to_a_hr"/>
+    <id>https://www.reddit.com/r/Cholesterol/comments/1xdr43b/2nd_attempt_at_ccta_couldnt_be_done_due_to_a_hr</id>
+    <updated>2026-10-23T21:48:14.000Z</updated>
+    <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
+    <category term="CAC &amp; PLAQUE"/>
+    <summary>So after my lp(a) returned at 148 nmol/L and my ApoB at 0.98 g/L, my doctor put me on 10 mg of Crestor. and approved a CCTA because of my obesity. I have no symptoms of heart issues (aside from some PVC's) and have also got a good Echo and stress ECG and my calcium score was zero but I was told none of these tests can </summary>
   </entry>
   <entry>
     <title>Interplay Between Heart Failure Events, New-Onset Diabetes, and Finerenone in Heart Failure With Mildly Reduced or Preserved Ejection Fraction</title>
@@ -21,34 +39,7 @@
     <id>https://diabetesjournals.org/care/article/doi/10.2337/dc25-2540/164006/Interplay-Between-Heart-Failure-Events-New-Onset</id>
     <updated>2026-12-08T00:00:00.000Z</updated>
     <author><name>Diabetes Care (advance)</name></author>
-    <category term="CHOLESTEROL &amp; LDL"/>
-  </entry>
-  <entry>
-    <title>Autophagy/fasting with crazy high CAC</title>
-    <link href="https://www.reddit.com/r/Cholesterol/comments/1xdkgj9/autophagyfasting_with_crazy_high_cac"/>
-    <id>https://www.reddit.com/r/Cholesterol/comments/1xdkgj9/autophagyfasting_with_crazy_high_cac</id>
-    <updated>2026-10-23T17:30:31.000Z</updated>
-    <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
-    <category term="CAC &amp; PLAQUE"/>
-    <summary>I am a 60M, never been a drinker, Never been a smoker, but I ate bad: fast food, steaks, pizza, et cetera. I also had high blood pressure, but finally got it under control using meds. (Likely, some damage from having high BP prior to getting it under control though) My calcium score following a recent ct scan was 2940,</summary>
-  </entry>
-  <entry>
-    <title>LDL-C, non–HDL-C, and ApoB: Complementary measures for better risk assessment</title>
-    <link href="https://www.lipidjournal.com/article/S1933-2874(26)00554-4/fulltext?rss=yes"/>
-    <id>https://www.lipidjournal.com/article/S1933-2874(26)00554-4/fulltext?rss=yes</id>
-    <updated>2026-10-22T00:00:00.000Z</updated>
-    <author><name>Journal of Clinical Lipidology</name></author>
-    <category term="APOB &amp; PARTICLES"/>
-    <summary>A key feature of the 2026 American College of Cardiology/American Heart Association (ACC/AHA) Multisociety Guideline is its recognition that optimal lipid management extends beyond low-density lipoprotein cholesterol (LDL-C). It establishes risk-based goals for LDL-C and non–high-density lipoprotein cholesterol (non–HD</summary>
-  </entry>
-  <entry>
-    <title>The American Diabetes Association Releases Full Report from Scientific Sessions Incident Review</title>
-    <link href="https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-full-report-scientific-sessions"/>
-    <id>https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-full-report-scientific-sessions</id>
-    <updated>2026-10-23T16:03:02.000Z</updated>
-    <author><name>ADA News</name></author>
     <category term="FASTING GLUCOSE"/>
-    <summary>The American Diabetes Association Releases Full Report from Scientific Sessions Incident Review vcramer Fri, 10/23/2026 - 16:03 Organizational Updates The American Diabetes Association Releases Full Report from Scientific Sessions Incident Review Arlington, Va. October 23, 2026 The organization announces changes to pro</summary>
   </entry>
   <entry>
     <title>Aficamten benefits may extend beyond symptom relief, peak VO2</title>
@@ -69,73 +60,73 @@
     <summary>Christopher Gardner. Food Sense: The Science and Practice of Eating Well. Simon Element, 2026 (287 pages). Christopher Gardner and I were doing book events at the same time within a couple of miles of each other in Marin County, mine at Book Passage in Corte Madera, and his at Copperfields in Larkspur. We met for […] T</summary>
   </entry>
   <entry>
-    <title>The evolution and future of conduction system pacing</title>
-    <link href="https://www.nature.com/articles/s41569-026-01354-z"/>
-    <id>https://www.nature.com/articles/s41569-026-01354-z</id>
-    <updated>2026-10-23T00:00:00.000Z</updated>
-    <author><name>Nature Reviews Cardiology</name></author>
+    <title>5 great cardio workouts you can do at home</title>
+    <link href="https://medicalxpress.com/news/2026-10-great-cardio-workouts-home.html"/>
+    <id>https://medicalxpress.com/news/2026-10-great-cardio-workouts-home.html</id>
+    <updated>2026-10-23T21:00:07.000Z</updated>
+    <author><name>MedicalXpress Cardiology</name></author>
     <category term="JOURNALS &amp; RESEARCH"/>
-    <summary>Nature Reviews Cardiology, Published online: 23 October 2026; doi:10.1038/s41569-026-01354-z Conduction system pacing has transformed cardiac pacing by engaging the intrinsic His–Purkinje network, thereby preserving or restoring the natural ventricular activation sequence and avoiding pacing-induced cardiomyopathy. In </summary>
+    <summary>You might have heard that cardio, or aerobic, exercise is one of the best ways to keep your heart, lungs and cardiovascular system healthy and strong.</summary>
   </entry>
   <entry>
-    <title>Need help reading test results</title>
-    <link href="https://www.reddit.com/r/Cholesterol/comments/1xdkzor/need_help_reading_test_results"/>
-    <id>https://www.reddit.com/r/Cholesterol/comments/1xdkzor/need_help_reading_test_results</id>
-    <updated>2026-10-23T17:50:47.000Z</updated>
-    <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
-    <category term="REDDIT &amp; X"/>
-    <summary>https://preview.redd.it/1alehuyg89xh1.png?width=790&amp;format=png&amp;auto=webp&amp;s=17f61a2f7eff9bd9c3d61b3d2f820b8ddfe6e1ba 6 months ago the trig is the biggest offender, now I got half drop essentially, VLDL also dropped more than half, total Chol dropped ~20% too. No idea about LDL Chol Calc though, did see a small drop but </summary>
-  </entry>
-  <entry>
-    <title>Holy crap, atorvastatin works crazy</title>
-    <link href="https://www.reddit.com/r/Cholesterol/comments/1xdk9pv/holy_crap_atorvastatin_works_crazy"/>
-    <id>https://www.reddit.com/r/Cholesterol/comments/1xdk9pv/holy_crap_atorvastatin_works_crazy</id>
-    <updated>2026-10-23T17:23:11.000Z</updated>
+    <title>30M, LDL 190 mg/dL (4.9 mmol/L) and family history of heart disease. Should I start a statin?</title>
+    <link href="https://www.reddit.com/r/Cholesterol/comments/1xdou2r/30m_ldl_190_mgdl_49_mmoll_and_family_history_of"/>
+    <id>https://www.reddit.com/r/Cholesterol/comments/1xdou2r/30m_ldl_190_mgdl_49_mmoll_and_family_history_of</id>
+    <updated>2026-10-23T20:16:06.000Z</updated>
     <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
     <category term="CHOLESTEROL &amp; LDL"/>
-    <summary>https://preview.redd.it/cfwfavde39xh1.png?width=1148&amp;format=png&amp;auto=webp&amp;s=04fd0777e5b9bab636047c8a1facf661fd743d38 https://preview.redd.it/t8ompt5m39xh1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=f285c16b36eef6b81699ad350f1647c809211d4e Did a blood test just a few months ago in August and my results were not good. Doctor </summary>
+    <summary>Hi everyone, I'm 30M and recently had a blood test that showed elevated cholesterol. I'm trying to understand how concerning these results are and whether I should consider starting a statin. My stats: Age: 30 Height: 187 cm (6'2&quot;) Weight: 85 kg (187 lbs) Activity level: Moderately active, regular gym workouts and some</summary>
   </entry>
   <entry>
-    <title>Heart failure and atrial fibrillation prediction from non-gated chest CT scans using AI-based cardiac chamber volumetry: an AI-CVD study within the multi-ethnic study of atherosclerosis (MESA)</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2666667726003077?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S2666667726003077?dgcid=rss_sd_all</id>
-    <updated>2026-10-23T18:10:37.148Z</updated>
-    <author><name>American Journal of Preventive Cardiology</name></author>
+    <title>Coronary artery calcium comes of age: From risk marker to treatment threshold</title>
+    <link href="https://www.journalofcardiovascularct.com/article/S1934-5925(26)00496-X/fulltext?rss=yes"/>
+    <id>https://www.journalofcardiovascularct.com/article/S1934-5925(26)00496-X/fulltext?rss=yes</id>
+    <updated>2026-10-23T00:00:00.000Z</updated>
+    <author><name>Journal of Cardiovascular CT</name></author>
     <category term="CAC &amp; PLAQUE"/>
-    <summary>Publication date: January 2027 Source: American Journal of Preventive Cardiology, Volume 31 Author(s): Seyed Reza Mirjalili, Kyle Atlas, Anthony P. Reeves, Chenyu Zhang, Jakob Wasserthal, Amir Azimi, Ali Hashemi, Mohammadhossein Mozafarybazargany, Amir Ghaffari Jolfayi, Thomas Atlas, Claudia I. Henschke, David F. Yanke</summary>
+    <summary>The 2026 ACC/AHA/Multisociety Guideline on the Management of Dyslipidemia substantially expands the clinical authority of coronary artery calcium (CAC), using it not only to refine cardiovascular risk but to set the intensity of lipid-lowering therapy and low-density lipoprotein cholesterol (LDL-C) goals.1 That expansi</summary>
   </entry>
   <entry>
-    <title>Plasma proteomic signatures of subclinical atherosclerosis progression for cardiovascular risk stratification: A cohort study</title>
-    <link href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzgyNkFZWlFOc0RqX2VrTWVxSm5HYVg3Ni1RcHM5UWd2b05HXzMteE5mVFRjbllNM215M3NOeFBoM1J2RnQ2cHpDWnJrZDh4WmoxbW05eFl5WEdKamJsbkVJMWNXTm93OTNMVmEyWGRrRGdLYkFndkJPdTJNMkdrRldUMU9yMnV3ZlZ4VFUtOA"/>
-    <id>https://news.google.com/rss/articles/CBMijwFBVV95cUxNQzgyNkFZWlFOc0RqX2VrTWVxSm5HYVg3Ni1RcHM5UWd2b05HXzMteE5mVFRjbllNM215M3NOeFBoM1J2RnQ2cHpDWnJrZDh4WmoxbW05eFl5WEdKamJsbkVJMWNXTm93OTNMVmEyWGRrRGdLYkFndkJPdTJNMkdrRldUMU9yMnV3ZlZ4VFUtOA</id>
-    <updated>2026-10-20T17:54:47.000Z</updated>
-    <author><name>Google News: CAC progression</name></author>
+    <title>Impact of Computed Tomography-derived Fractional Flow Reserve on long-term outcomes in patients with stable coronary artery disease: a Systematic Review and Meta-Analysis</title>
+    <link href="https://www.journalofcardiovascularct.com/article/S1934-5925(26)00502-2/fulltext?rss=yes"/>
+    <id>https://www.journalofcardiovascularct.com/article/S1934-5925(26)00502-2/fulltext?rss=yes</id>
+    <updated>2026-10-23T00:00:00.000Z</updated>
+    <author><name>Journal of Cardiovascular CT</name></author>
     <category term="CAC &amp; PLAQUE"/>
-    <summary>Plasma proteomic signatures of subclinical atherosclerosis progression for cardiovascular risk stratification: A cohort study PLOS</summary>
+    <summary>This systematic review and meta-analysis evaluated the prognostic impact of computed tomography-derived fractional flow reserve (FFR-CT) in patients with stable coronary artery disease. Across 15 studies including 14,437 patients, FFR-CT &lt;0.80 was associated with significantly higher rates of major adverse cardiovascul</summary>
   </entry>
   <entry>
-    <title>Family Heart in the Community: August 2026 Highlights</title>
-    <link href="https://familyheart.org/community-august-2026-highlights"/>
-    <id>https://familyheart.org/community-august-2026-highlights</id>
-    <updated>2026-10-22T18:01:09.000Z</updated>
-    <author><name>Family Heart Foundation</name></author>
+    <title>Genetically high Lp(a) (~49 mg/dL) and lifetime high LDL (130-160). What steps have you taken?</title>
+    <link href="https://www.reddit.com/r/PeterAttia/comments/1xdok9l/genetically_high_lpa_49_mgdl_and_lifetime_high"/>
+    <id>https://www.reddit.com/r/PeterAttia/comments/1xdok9l/genetically_high_lpa_49_mgdl_and_lifetime_high</id>
+    <updated>2026-10-23T20:05:50.000Z</updated>
+    <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
     <category term="APOB &amp; PARTICLES"/>
-    <summary>Throughout August, the Family Heart Foundation was busy connecting with healthcare professionals, community leaders, and families across the country, raising awareness and sharing resources on familial hypercholesterolemia (FH) and high lipoprotein(a) (Lp(a)). From national conferences to local community events, our te</summary>
+    <summary>submitted by /u/ravikumarcse2020 to r/PeterAttia [link] [comments]</summary>
   </entry>
   <entry>
-    <title>School gym. Subway platform. Neon arcade. Where would you stage your AI idol’s next performance? Create a 30-second K-pop video with Seedance 2.5 on APOB AI and make an unexpected location part of the concept. Try it now: https://t.co/C0mRtS52Dm</title>
-    <link href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM0ZMNzBNVHNPY0lMajc1dTdCVzF5WmJVQnZKTkhDNmF4X2RkVlV1djVlQTZkTWdnZjBVZWdRcE8yWTBFSS04QVVPRGxCNk56N3ZFTGVmWF9LN29P"/>
-    <id>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kM0ZMNzBNVHNPY0lMajc1dTdCVzF5WmJVQnZKTkhDNmF4X2RkVlV1djVlQTZkTWdnZjBVZWdRcE8yWTBFSS04QVVPRGxCNk56N3ZFTGVmWF9LN29P</id>
-    <updated>2026-10-23T05:27:54.000Z</updated>
-    <author><name>X.com via GNews: lipids / CAC / ApoB</name></author>
+    <title>LDL-C, non–HDL-C, and ApoB: Complementary measures for better risk assessment</title>
+    <link href="https://www.lipidjournal.com/article/S1933-2874(26)00554-4/fulltext?rss=yes"/>
+    <id>https://www.lipidjournal.com/article/S1933-2874(26)00554-4/fulltext?rss=yes</id>
+    <updated>2026-10-22T00:00:00.000Z</updated>
+    <author><name>Journal of Clinical Lipidology</name></author>
     <category term="APOB &amp; PARTICLES"/>
-    <summary>School gym. Subway platform. Neon arcade. Where would you stage your AI idol’s next performance? Create a 30-second K-pop video with Seedance 2.5 on APOB AI and make an unexpected location part of the concept. Try it now: https://t.co/C0mRtS52Dm X</summary>
+    <summary>A key feature of the 2026 American College of Cardiology/American Heart Association (ACC/AHA) Multisociety Guideline is its recognition that optimal lipid management extends beyond low-density lipoprotein cholesterol (LDL-C). It establishes risk-based goals for LDL-C and non–high-density lipoprotein cholesterol (non–HD</summary>
+  </entry>
+  <entry>
+    <title>The American Diabetes Association Releases Full Report from Scientific Sessions Incident Review</title>
+    <link href="https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-full-report-scientific-sessions"/>
+    <id>https://diabetes.org/newsroom/press-releases/american-diabetes-association-releases-full-report-scientific-sessions</id>
+    <updated>2026-10-23T16:03:02.000Z</updated>
+    <author><name>ADA News</name></author>
+    <category term="FASTING GLUCOSE"/>
+    <summary>The American Diabetes Association Releases Full Report from Scientific Sessions Incident Review vcramer Fri, 10/23/2026 - 16:03 Organizational Updates The American Diabetes Association Releases Full Report from Scientific Sessions Incident Review Arlington, Va. October 23, 2026 The organization announces changes to pro</summary>
   </entry>
   <entry>
     <title>Single leptin gene therapy injection eases fatty liver and insulin resistance in lipodystrophy mice</title>
     <link href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMm9pSnVQbWdWclVzWDBOZjh1R1lnbHJ4akQ3V0lvMlVySy1XXzVwS19ycW9yZHBOOTBxTU9CV1B6RWtrNXdRRlJTQ1paNkVVeTJScmpoUjBieXNERURCWFBfQVVRTk93THUyOHo4dGs4MldISGIwTmZ5QXRGdTFUdUx2eTlYd0I1SDFEU0w1NXE3Y29VelI2ZERYdXV4ZXB6allKYUxuTkxOY05WeHYyVFEzU2ZaZ1pkcGZMZjhUZzVGQQ"/>
     <id>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMm9pSnVQbWdWclVzWDBOZjh1R1lnbHJ4akQ3V0lvMlVySy1XXzVwS19ycW9yZHBOOTBxTU9CV1B6RWtrNXdRRlJTQ1paNkVVeTJScmpoUjBieXNERURCWFBfQVVRTk93THUyOHo4dGs4MldISGIwTmZ5QXRGdTFUdUx2eTlYd0I1SDFEU0w1NXE3Y29VelI2ZERYdXV4ZXB6allKYUxuTkxOY05WeHYyVFEzU2ZaZ1pkcGZMZjhUZzVGQQ</id>
-    <updated>2026-10-23T13:54:20.000Z</updated>
+    <updated>2026-10-23T13:58:38.000Z</updated>
     <author><name>Google News: Fasting glucose / IR</name></author>
     <category term="FASTING GLUCOSE"/>
     <summary>Single leptin gene therapy injection eases fatty liver and insulin resistance in lipodystrophy mice Bioengineer.org</summary>
@@ -168,13 +159,22 @@
     <summary>Understanding Nutrition Across Childhood and Adolescence Nutrition plays an important role in children’s growth, development, learning, and long-term health. Yet Read More</summary>
   </entry>
   <entry>
-    <title>What is your total daily dietary fiber intake?</title>
-    <link href="https://www.reddit.com/r/Cholesterol/comments/1xdiu35/what_is_your_total_daily_dietary_fiber_intake"/>
-    <id>https://www.reddit.com/r/Cholesterol/comments/1xdiu35/what_is_your_total_daily_dietary_fiber_intake</id>
-    <updated>2026-10-23T16:29:24.000Z</updated>
-    <author><name>Reddit cardio (Cholesterol+Attia+SciNutrition)</name></author>
+    <title>Differential effects of stearic, palmitic, and oleic acid–enriched diets on gut microbiome, bile acid, and cholesterol metabolism in mildly hypercholesterolemic postmenopausal females: A secondary analysis of a randomized controlled trial</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0002916526003709?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0002916526003709?dgcid=rss_sd_all</id>
+    <updated>2026-10-23T21:55:35.104Z</updated>
+    <author><name>AJCN</name></author>
     <category term="NUTRITION"/>
-    <summary>The standard recommended daily fiber intake is 25 grams for women and 38 grams for men. Mine is roughly 63 grams. Here is the breakdown. 1.5 cups Whole Cooked Lentils (with husk): ~23.4 g 1 lb low oxalate Leafy Greens (70%) &amp; Other Veggies: ~11.3 g 2 Medium Apples: ~8.8 g (Mainly pectin, a great soluble fiber) 300g Fir</summary>
+    <summary>Publication date: December 2026 Source: The American Journal of Clinical Nutrition, Volume 124, Issue 6 Author(s): Wen Zhang, Gregory Matuszek, Gregory G Dolnikowski, Stefania Lamon-Fava, Lynne M Ausman, Alice H Lichtenstein, Nirupa R Matthan</summary>
+  </entry>
+  <entry>
+    <title>The evolution and future of conduction system pacing</title>
+    <link href="https://www.nature.com/articles/s41569-026-01354-z"/>
+    <id>https://www.nature.com/articles/s41569-026-01354-z</id>
+    <updated>2026-10-23T00:00:00.000Z</updated>
+    <author><name>Nature Reviews Cardiology</name></author>
+    <category term="JOURNALS &amp; RESEARCH"/>
+    <summary>Nature Reviews Cardiology, Published online: 23 October 2026; doi:10.1038/s41569-026-01354-z Conduction system pacing has transformed cardiac pacing by engaging the intrinsic His–Purkinje network, thereby preserving or restoring the natural ventricular activation sequence and avoiding pacing-induced cardiomyopathy. In </summary>
   </entry>
   <entry>
     <title>Guidelines on rehabilitation and a focus on lifestyle-related cardiovascular prevention</title>
@@ -184,15 +184,6 @@
     <author><name>European Heart Journal</name></author>
     <category term="JOURNALS &amp; RESEARCH"/>
     <summary>For image description, please refer to the figure legend and surrounding text.</summary>
-  </entry>
-  <entry>
-    <title>Impact of High-sensitivity C-reactive protein testing on statin use in primary prevention: A national multicenter analysis</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S266666772600320X?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S266666772600320X?dgcid=rss_sd_all</id>
-    <updated>2026-10-23T18:10:37.148Z</updated>
-    <author><name>American Journal of Preventive Cardiology</name></author>
-    <category term="JOURNALS &amp; RESEARCH"/>
-    <summary>Publication date: January 2027 Source: American Journal of Preventive Cardiology, Volume 31 Author(s): Danh Q. Nguyen, Anand Rohatgi, Amit Khera, Parag H. Joshi, Michael S. Garshick, Antonio Abbate, James A. de Lemos, Brittany N. Weber</summary>
   </entry>
   <entry>
     <title>Q&amp;A: Tackling hypertension as a nephrologist</title>
@@ -211,14 +202,5 @@
     <author><name>MedPage Today Cardiology</name></author>
     <category term="ANALYSIS"/>
     <summary>(MedPage Today) -- In this video, pediatric anesthesiologist Max Feinstein, MD, chats about a career you might not have heard of with Caleb Varner, MBA, CCP, FPP. Following is a partial transcript of the video (note that errors are possible...</summary>
-  </entry>
-  <entry>
-    <title>There's real data behind this. In a meta-analysis of trials in people with type 2 diabetes, cinnamon lowered fasting glucose by about 25 mg/dL and also improved triglycerides and LDL, but it didn't meaningfully move A1c. Most of those trials used cassia cinnam</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTGI2QWdPQzYzR0dzdTRnOWx6LUVFRjRtckMtZVB2VmdmQTVfS2oxLVNMWGpvMGphYUFTeEFnTjRWRE9iYXVlZnl2d0FELUM5Uy1wd1pvYmFrUnZlUDJMOUhCTQ"/>
-    <id>https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTGI2QWdPQzYzR0dzdTRnOWx6LUVFRjRtckMtZVB2VmdmQTVfS2oxLVNMWGpvMGphYUFTeEFnTjRWRE9iYXVlZnl2d0FELUM5Uy1wd1pvYmFrUnZlUDJMOUhCTQ</id>
-    <updated>2026-10-23T12:56:48.000Z</updated>
-    <author><name>X.com via GNews: LDL / glucose</name></author>
-    <category term="REDDIT &amp; X"/>
-    <summary>There's real data behind this. In a meta-analysis of trials in people with type 2 diabetes, cinnamon lowered fasting glucose by about 25 mg/dL and also improved triglycerides and LDL, but it didn't meaningfully move A1c. Most of those trials used cassia cinnam X</summary>
   </entry>
 </feed>
